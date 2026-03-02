@@ -1,0 +1,6 @@
+rhyme = str(input("Enter a nursery rhyme"))
+r1 = len(rhyme)
+print("This letter has", r1, "letter in it")
+startnumber = int(input("Enter a starting number"))
+endnumber = int(input("Enter an ending number"))
+print(rhyme[startnumber:endnumber])
