@@ -1,0 +1,2 @@
+word = "rghwrthrwpyt7w4gcxzergwghyiwergwyoegruoWFRuo3wr623fr3qrgUQRFtueqfrUOQR28375TEP87HP8Q7TP483QTY24-TY434T3YU,FR7GHW4URGTW4RFR4ER3T"
+print(len(word))
