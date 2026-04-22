@@ -1,0 +1,7 @@
+cars = []
+
+NewCar = str(input("Enter another car brand >>>"))
+location = int(input("Enter a location between 0 and 3"))
+
+cars.insert(location, NewCar)
+print(cars)
