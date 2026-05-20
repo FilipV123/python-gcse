@@ -1,0 +1,8 @@
+def menu():
+    menu = ["Domination" , "Team Deathmatch" , "Headquarters"]
+    print(menu[0])
+    print(menu[1])
+    print(menu[2])
+    
+choice = int(input("Chose one of the options"))
+
