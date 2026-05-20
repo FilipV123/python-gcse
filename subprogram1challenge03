@@ -1,0 +1,19 @@
+def menu():
+    menu = ["1-player" , "2-player" , "3-player" , "4-player"]
+    print(menu[0])
+    print(menu[1])
+    print(menu[2])
+    print(menu[3])
+    
+choice = int(input("Chose one of the options 1, 2, 3 or 4"))
+if choice == 1:
+    print("1 player is selected")
+elif choice == 2:
+    print("2 player selected")
+elif choice == 3:
+    print("Online selected")
+elif choice == 4:
+    print("exiting...")
+
+
+
