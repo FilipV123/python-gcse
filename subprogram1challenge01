@@ -1,0 +1,7 @@
+def menu():
+    menu = ["Career mode" , "Tournament mode" , "Online seasons"]
+    print(menu[0])
+    print(menu[1])
+    print(menu[2])
+menu()
+    
