@@ -1,0 +1,8 @@
+names = open("names.txt", "w")
+names.write("filip\n")
+names.write("jack\n")
+names.write("tobi\n")
+names.write("saahil\n")
+names.write("jorden\n")
+names.close()
+print("go and open names.txt")
